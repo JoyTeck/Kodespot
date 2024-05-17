@@ -9,6 +9,11 @@ div {
     color: red;
   }
 
+  .round-image {
+    border-radius: 50%;
+  }
+
+
 
 
 
